@@ -1,0 +1,4 @@
+ltdc.c:7:6:TFT_FillScreen	0	static
+ltdc.c:17:6:TFT_FillRectangle	20	static
+ltdc.c:32:6:TFT_DrawPixel	4	static
+ltdc.c:37:6:TFT_DrawLine	48	static
